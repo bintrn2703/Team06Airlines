@@ -1,5 +1,6 @@
-Database Name: ofbsphp
+Reference from codeastro.com
 
+Database Name: ofbsphp
 Username: admin1
 Password: 123456duyD
 
