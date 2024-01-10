@@ -166,7 +166,7 @@ body {
   margin-top: 100px;
   background-color: #615c5c;
   width: 100vw;
-  height: 400px;
+  height: 200px;
   position: relative;
 }
 
@@ -283,12 +283,6 @@ body {
 
 </div>
 
-
-
-
-<script>
-  
-</script>
 <footer class="footer">
 	<div class="row">
 		<h1 class="title">Team06 Airlines</h1>
